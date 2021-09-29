@@ -1,2 +1,2 @@
 # yoda-speak
- Fun Translation App
+ A Fun Translation App which converts your text from English to Yoda speak.
